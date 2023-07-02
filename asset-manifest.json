@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Complete-prepration/static/css/main.1cca0013.css",
+    "main.js": "/Complete-prepration/static/js/main.3359ee23.js",
+    "index.html": "/Complete-prepration/index.html",
+    "main.1cca0013.css.map": "/Complete-prepration/static/css/main.1cca0013.css.map",
+    "main.3359ee23.js.map": "/Complete-prepration/static/js/main.3359ee23.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1cca0013.css",
+    "static/js/main.3359ee23.js"
+  ]
+}
