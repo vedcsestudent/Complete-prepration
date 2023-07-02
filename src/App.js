@@ -23,6 +23,7 @@ function App() {
         <Route path="/dsa" element={<Dsa></Dsa>}></Route>
         <Route path="/English" element={<English></English>}></Route>
       </Routes>
+      <Home></Home>
      
     </BrowserRouter>
    
